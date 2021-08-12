@@ -1,0 +1,278 @@
+body{
+  background-color: #FCE38A;
+  margin:0;
+  text-align: center;
+}
+
+
+.h1{
+  display: inline-block;
+  font-family: 'Style Script', cursive;
+  letter-spacing: 2px;
+}
+
+.friends{
+  width: 2rem ;
+  height: 60px;
+
+}
+.pengyou{
+  font-family: 'Montserrat', sans-serif;
+  width: 30%
+  margin-top: 0;
+  font-size: 20px;
+}
+
+.sheepicon{
+  width: 2rem ;
+  height: 45px;
+  display: inline-block;
+}
+.img1{
+  display: inline-block;
+  position: absolute;
+  left: 0;
+width: 25%;
+height: 200px;
+
+
+
+}
+.img2{
+display: inline-block;
+width: 25%;
+height: 200px;
+position: absolute;
+right: 0;
+
+}
+
+.img3{
+  display: inline-block;
+  position: absolute;
+  left: 0;
+width: 25%;
+height: 200px;
+margin-top: 200px;
+}
+
+.img4{
+  display: inline-block;
+  width: 25%;
+  height: 200px;
+  margin-top: 200px;
+  position: absolute;
+  right: 0;
+}
+
+.img5{
+  display: inline-block;
+  position: absolute;
+  left: 0;
+width: 25%;
+height: 200px;
+margin-top: 400px;
+}
+
+.img6{
+  display: inline-block;
+  width: 25%;
+  height: 200px;
+  margin-top: 400px;
+  position: absolute;
+  right: 0;
+}
+
+.img7{
+  display: inline-block;
+  position: absolute;
+  left: 0;
+width: 25%;
+height: 200px;
+margin-top: 600px;
+}
+
+.img8{
+  display: inline-block;
+  width: 25%;
+  height: 200px;
+  margin-top: 600px;
+  position: absolute;
+  right: 0;
+}
+
+.img9{
+  display: inline-block;
+  position: absolute;
+  left: 0;
+width: 25%;
+height: 200px;
+margin-top: 800px;
+}
+
+.img10{
+  display: inline-block;
+  width: 25%;
+  height: 200px;
+  margin-top: 800px;
+  position: absolute;
+  right: 0;
+}
+
+.img11{
+  display: inline-block;
+  position: absolute;
+  left: 0;
+width: 25%;
+height: 200px;
+margin-top: 1000px;
+}
+
+.img12{
+  display: inline-block;
+  width: 25%;
+  height: 200px;
+  margin-top: 1000px;
+  position: absolute;
+  right: 0;
+}
+
+.img13{
+  display: inline-block;
+  position: absolute;
+  left: 0;
+width: 25%;
+height: 200px;
+margin-top: 1200px;
+}
+.img14{
+  display: inline-block;
+  width: 25%;
+  height: 200px;
+  margin-top: 1200px;
+  position: absolute;
+  right: 0;
+}
+.img15{
+  display: inline-block;
+  position: absolute;
+  left: 0;
+width: 25%;
+height: 200px;
+margin-top: 1400px;
+
+
+}
+.img16{
+  display: inline-block;
+  width: 25%;
+  height: 200px;
+  margin-top: 1400px;
+  position: absolute;
+  right: 0;
+}
+
+.img17{
+  display: inline-block;
+  position: absolute;
+  left: 0;
+width: 25%;
+height: 200px;
+margin-top: 1600px;
+}
+.img18{
+  display: inline-block;
+  width: 25%;
+  height: 200px;
+  margin-top: 1600px;
+  position: absolute;
+  right: 0;
+}
+.img19{
+  display: inline-block;
+  position: absolute;
+  left: 0;
+width: 25%;
+height: 200px;
+margin-top: 1800px;
+}
+.img20{
+  display: inline-block;
+  width: 25%;
+  height: 200px;
+  margin-top: 1800px;
+  position: absolute;
+  right: 0;
+}
+.img21{
+  display: inline-block;
+  position: absolute;
+  left: 0;
+width: 25%;
+height: 200px;
+margin-top: 2000px;
+}
+.img22{
+  display: inline-block;
+  width: 25%;
+  height: 200px;
+  margin-top: 2000px;
+  position: absolute;
+  right: 0;
+}
+.mueheheh{
+  width: 45%;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  letter-spacing: 2;
+  line-height: 2;
+}
+.bold{
+  font-weight:500;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.ourfamily{
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.fampic{
+  width: 45%;
+  height: auto;
+  margin-bottom: 20px;
+}
+.p2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-weight: 200;
+  display: inline-block;
+  width: 30%
+
+
+}
+.form{
+  margin-top: 0;
+
+
+
+}
+.patrick{
+  width: 5rem;
+  height: 5rem;
+}
+
+.tablewidth{
+  width: 45%;
+}
+
+.video{
+  height: 200px;
+  width: 45%;
+  margin: 10px;
+
+}
